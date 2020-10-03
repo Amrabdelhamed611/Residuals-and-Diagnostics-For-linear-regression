@@ -1,7 +1,7 @@
 ---
 # Residuals and Diagnostics For linear regression Using R
 
-viwe on on rpub: [Residuals and Diagnostics For linear regression](https://rpubs.com/Amrabdelhamed611/669768)
+view on on rpub: [Residuals and Diagnostics For linear regression](https://rpubs.com/Amrabdelhamed611/669768)
 
 Residuals and Diagnostics plots are tools to spot problems on the model will use some simulations and R data package to illustrate how to generate diagnostics plots and how to interpret them.
 
